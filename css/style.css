@@ -1,0 +1,11 @@
+h1{
+    background-color: royalblue;
+    color: white;
+    font-weight: 700;
+    font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+}
+
+p{
+    background-color: crimson;
+    font-weight: 300;
+}
