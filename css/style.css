@@ -1,11 +1,17 @@
+body {
+    background-color: wheat;
+}
+
 h1{
     background-color: royalblue;
     color: white;
     font-weight: 700;
     font-family: 'Segoe UI', Tahoma, 'Geneva', Verdana, sans-serif;
+    text-align: center;
+    margin: auto 8%;
 }
 
 p{
-    background-color: crimson;
+    text-align: center;
     font-weight: 300;
 }
