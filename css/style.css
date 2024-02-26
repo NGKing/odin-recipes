@@ -11,7 +11,9 @@ h1{
     margin: auto 8%;
 }
 
-p{
-    text-align: center;
-    font-weight: 300;
+button{
+    display: block;
+    margin: 8% auto;
+    padding: 30px;
 }
+
